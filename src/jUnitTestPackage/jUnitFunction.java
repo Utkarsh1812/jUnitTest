@@ -13,5 +13,6 @@ public class jUnitFunction {
 
 }
 	public static void main (String arg[]) {
+		
 	}
 }
